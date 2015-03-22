@@ -15,7 +15,6 @@
     <div data-role="panel" id="settingsPanel" data-display="reveal">
         <h2>Options</h2>
         <a href="#menu" data-rel="close" class="ui-btn-right ui-btn ui-btn-inline ui-mini ui-corner-all ui-btn-icon-right ui-icon-delete close-menu"></a>
-        <a href="./finance.html" class="ui-btn ui-btn-b ui-corner-all">Finance</a>
         <a href="./reports.html" class="ui-btn ui-btn-b ui-corner-all">Reports</a>
         <a href="./account.html" class="ui-btn ui-btn-b ui-corner-all">Account Info</a>
         <a href="./index.html" class="ui-btn ui-btn-b ui-corner-all">Log Out</a>
@@ -29,6 +28,35 @@
 
     <!-- Main content -->
     <div data-role="main" class="ui-content">
+
+
+        <table data-role="table" id="table-custom-2" class="ui-body-d ui-shadow table-stripe ui-responsive" data-column-btn-theme="b">
+                 <thead>
+                   <tr class="ui-bar-d">
+                         <th data-priority="2">Account Number</th>
+                         <th>Type</th>
+                         <th data-priority="3">Balance</th>
+                   </tr>
+                 </thead>
+                 <tbody>
+                   <tr>
+                         <td><a href="#">1234-567</a></td>
+                         <td>Savings</td>
+                         <td>$12,304.29</td>
+                    </tr>
+                    <tr>
+                         <td><a href="#">9008-8098</a></td>
+                         <td>Credit Card</td>
+                         <td style="color: red">$4,039.34</td>
+                    </tr>
+                    <tr>
+                         <td><a href="#">875-32341</a></td>
+                         <td>Investment</td>
+                         <td>$2,039.34</td>
+                    </tr>
+                 </tbody>
+        </table>
+
 
     </div>
 </div>
