@@ -121,14 +121,6 @@ label {
     font-size: 10px;
 }
 
-.header-button {
-    margin-top: 20px;
-}
-
-.header {
-    padding-top: 20px;
-}
-
 .close-menu {
     margin-top: 30px;
 }
@@ -136,3 +128,4 @@ label {
 .ui-title {
     margin: 0.6em 10% 0.8em 5% !important;
 }
+
