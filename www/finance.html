@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">
+    <link rel="stylesheet" href="./css/index.css">
+    <script src="http://code.jquery.com/jquery-1.11.2.min.js"></script>
+    <script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+</head>
+<body>
+
+<div data-role="page" id="menu">
+
+    <!-- Panel -->
+    <div data-role="panel" id="settingsPanel" data-display="reveal">
+        <h2>Options</h2>
+        <a href="#menu" data-rel="close" class="ui-btn-right ui-btn ui-btn-inline ui-mini ui-corner-all ui-btn-icon-right ui-icon-delete close-menu"></a>
+        <a href="./finance.html" class="ui-btn ui-btn-b ui-corner-all">Finance</a>
+        <a href="./reports.html" class="ui-btn ui-btn-b ui-corner-all">Reports</a>
+        <a href="./account.html" class="ui-btn ui-btn-b ui-corner-all">Account Info</a>
+        <a href="./index.html" class="ui-btn ui-btn-b ui-corner-all">Log Out</a>
+    </div>
+
+    <!-- Header -->
+    <div data-role="header" data-add-back-btn="true">
+        <h1>Finance</h1>
+        <a href="#settingsPanel" class="ui-btn-right ui-btn ui-btn-inline ui-mini ui-corner-all ui-btn-icon-right ui-icon-gear header-button">Settings</a>
+    </div>
+
+    <!-- Main content -->
+    <div data-role="main" class="ui-content">
+
+    </div>
+</div>
+</body>
+</html>
