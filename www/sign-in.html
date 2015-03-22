@@ -9,17 +9,21 @@
 </head>
 <body>
 
-<div data-role="page" id="pageone">
+<div data-role="page" id="signin">
     <div data-role="header">
-        <h1 class="header">Our App Name?</h1>
+        <h1>Sign In</h1>
+        <a href="./index.html" class="ui-btn-right ui-btn ui-btn-inline ui-mini ui-corner-all ui-btn-icon-right">Back</a>
     </div>
 
     <div data-role="main" class="ui-content">
-        <h2 class="mc-text-center">Welcome!</h2>
-        <p><b>Existing users</b></p>
-        <a href="sign-in.html" class="ui-btn ui-btn-b ui-corner-all">Sign In</a>
-        <p><b>Don't have an account?</b></p>
-        <a href="sign-up.html" class="ui-btn ui-btn-b ui-corner-all">Sign Up</a>
+
+        <label for="email">Email Address</label>
+        <input type="text" value="" id="email"/>
+        <label for="password">Password</label>
+        <input type="password" value="" id="password"/>
+
+        <a href="menu.html"><button class="ui-btn ui-btn-b ui-corner-all">Sign In</button></a>
+
     </div>
 </div>
 </body>
