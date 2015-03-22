@@ -41,7 +41,6 @@ body {
     height:100%;
     margin:0px;
     padding:0px;
-    text-transform:uppercase;
     width:100%;
 }
 
@@ -113,3 +112,20 @@ h1 {
     animation:fade 3000ms infinite;
     -webkit-animation:fade 3000ms infinite;
 }
+
+.mc-text-center {
+    text-align: center;
+}
+
+label {
+    font-size: 10px;
+}
+
+.close-menu {
+    margin-top: 30px;
+}
+
+.ui-title {
+    margin: 0.6em 10% 0.8em 5% !important;
+}
+
