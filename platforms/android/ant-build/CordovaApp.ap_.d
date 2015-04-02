@@ -30,6 +30,7 @@
 /home/evan/Documents/471/project/ense471_project/platforms/android/assets/www/icon.png \
 /home/evan/Documents/471/project/ense471_project/platforms/android/assets/www/reports.html \
 /home/evan/Documents/471/project/ense471_project/platforms/android/assets/www/css \
+/home/evan/Documents/471/project/ense471_project/platforms/android/assets/www/settings.html \
 /home/evan/Documents/471/project/ense471_project/platforms/android/assets/www/cordova.js \
 /home/evan/Documents/471/project/ense471_project/platforms/android/assets/www/account.html \
 /home/evan/Documents/471/project/ense471_project/platforms/android/assets/www/spec \
@@ -42,7 +43,11 @@
 /home/evan/Documents/471/project/ense471_project/platforms/android/assets/www/js \
 /home/evan/Documents/471/project/ense471_project/platforms/android/assets/www/spec.html \
 /home/evan/Documents/471/project/ense471_project/platforms/android/assets/www/res/icon \
+/home/evan/Documents/471/project/ense471_project/platforms/android/assets/www/res/graph_drawing2.jpg \
+/home/evan/Documents/471/project/ense471_project/platforms/android/assets/www/res/graph_drawing1.jpg \
+/home/evan/Documents/471/project/ense471_project/platforms/android/assets/www/res/graph_drawing2.png \
 /home/evan/Documents/471/project/ense471_project/platforms/android/assets/www/res/screen \
+/home/evan/Documents/471/project/ense471_project/platforms/android/assets/www/res/graph_drawing1.png \
 /home/evan/Documents/471/project/ense471_project/platforms/android/assets/www/res/icon/blackberry \
 /home/evan/Documents/471/project/ense471_project/platforms/android/assets/www/res/icon/bada-wac \
 /home/evan/Documents/471/project/ense471_project/platforms/android/assets/www/res/icon/android \
